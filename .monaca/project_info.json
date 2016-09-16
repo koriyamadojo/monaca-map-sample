@@ -1,0 +1,29 @@
+{
+    "plugins": [
+        "mobi.monaca.plugins.Monaca"
+    ],
+    "framework_version": "3.5",
+    "xcode_version": "7",
+    "cordova_version": "6.2",
+    "plugin_settings": {
+        "ncmb-push-monaca-plugin": {
+            "variables": []
+        }
+    },
+    "external_plugins": [
+        "cordova-plugin-whitelist@1.2.2",
+        "cordova-plugin-splashscreen@3.2.2",
+        "ncmb-push-monaca-plugin@2.0.2",
+        "cordova-custom-config@2.0.3",
+        "cordova-plugin-geolocation@2.2.0"
+    ],
+    "title-ja": "map_leaflet",
+    "title-en": "",
+    "description-ja": "",
+    "description-en": "",
+    "category": "User Template",
+    "platform": [
+        "android"
+    ],
+    "name": "generated-1473689030-57d6ac557e21939f478a8a55"
+}
